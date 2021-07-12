@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...  
 - ⚡ Fun fact: ...
 -->
-
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/DJM88aCmEeaNG/giphy.gif">
 <img align="left" alt="Coding" width="130" src="https://media.giphy.com/media/11pWkHN7XHRI9W/giphy.gif">
-<img align="right" alt="Coding" width="130" src="https://media.giphy.com/media/8Krp9dUyhLtny/giphy.gif">
 <meta http-equiv="refresh" content="2">
 <!-- <div align="center"><a href="https://ibb.co/2YVSgTj"><img src="" width="850" align="center" alt="github-Logo" border="0"></a></div> -->
 <h1 align="center">Hi 👋, I'm Vaibhav Gupta</h1>
