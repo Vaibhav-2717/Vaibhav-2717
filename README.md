@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <meta http-equiv="refresh" content="2">
+
+<img align="center" alt="Coding" width="130" src="https://media.giphy.com/media/11pWkHN7XHRI9W/giphy.gif">
 <!-- <div align="center"><a href="https://ibb.co/2YVSgTj"><img src="" width="850" align="center" alt="github-Logo" border="0"></a></div> -->
 <h1 align="center">Hi 👋, I'm Vaibhav Gupta</h1>
 <h3 align="center">A passionate learner from India...I'm passionate about making open-source more accessible things.Do 🌟 my repository if you find my project interesting, at least your star could make someone's day 😄. I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊</h3>
