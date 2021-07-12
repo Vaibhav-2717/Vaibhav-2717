@@ -45,6 +45,15 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/349qKnoIBHK1i/giphy.gif">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav-2717&show_icons=true&locale=en&layout=compact" alt="vaibhav-2717" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav-2717&show_icons=true&locale=en" alt="vaibhav-2717" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav-2717&show_icons=true&locale=en&theme=dark" alt="vaibhav-2717" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-2717&" alt="vaibhav-2717" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-2717&theme=dark" alt="vaibhav-2717" /></p>
+
+
+<p align="center"> 
+ V.I.S.I.T.O.R.S<br>
+  <img src="https://profile-counter.glitch.me/Vaibhav-2717/count.svg" />
+</p>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=Vaibhav-2717&theme=react-dark&area=true&hide_border=true" width="100%">
+
