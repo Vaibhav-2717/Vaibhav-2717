@@ -18,12 +18,13 @@ Here are some ideas to get you started:
 </div>
 
 <div float=left align=center>
-  <img src="https://www.hackerrank.com/certificates/6c091302f395" width="25%" />
-  <img src="https://github.com/Psingh12354/Certificates/blob/master/HackerRank%20Problem%20Solving%20(Basic)).PNG" width="25%" /> 
-  <img src="https://github.com/Psingh12354/Certificates/blob/master/C%2B%2B.PNG" width="25%" />
+  <a href="https://www.hackerrank.com/certificates/6c091302f395"><img src="java.png" width="25%" /></a>
+   <a href="https://www.hackerrank.com/certificates/729257b9ba2a"><img src="sql basic.png" width="25%" /></a>
+   <a href="https://www.hackerrank.com/certificates/dd0370e4da6f"><img src="sql inter.png" width="25%" /></a>
+ 
 </div>
 <div float=left align=center>
-  <img src="https://github.com/Psingh12354/Certificates/blob/master/badges.JPG" width="80%" />
+  <img src="" width="80%" />
 </div>
 
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/DJM88aCmEeaNG/giphy.gif">
