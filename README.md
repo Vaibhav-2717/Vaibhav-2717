@@ -13,6 +13,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...  
 - ⚡ Fun fact: ...
 -->
+<div align=center>
+<a href="https://www.hackerrank.com/vaibh_av27?hr_r=1"><img src="https://github.com/Psingh12354/Java-HackeRank/blob/master/hack.png" width="35%"></img></a>
+</div>
+
+<div float=left align=center>
+  <img src="https://www.hackerrank.com/certificates/6c091302f395" width="25%" />
+  <img src="https://github.com/Psingh12354/Certificates/blob/master/HackerRank%20Problem%20Solving%20(Basic)).PNG" width="25%" /> 
+  <img src="https://github.com/Psingh12354/Certificates/blob/master/C%2B%2B.PNG" width="25%" />
+</div>
+<div float=left align=center>
+  <img src="https://github.com/Psingh12354/Certificates/blob/master/badges.JPG" width="80%" />
+</div>
+
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/DJM88aCmEeaNG/giphy.gif">
 <img align="left" alt="Coding" width="130" src="https://media.giphy.com/media/11pWkHN7XHRI9W/giphy.gif">
 <meta http-equiv="refresh" content="2">
