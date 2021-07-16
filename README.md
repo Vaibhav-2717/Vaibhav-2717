@@ -24,7 +24,7 @@ Here are some ideas to get you started:
  
 </div>
 <div float=left align=center>
-  <img src="" width="80%" />
+  <img src="Screenshot 2021-07-16 230614.png" width="80%" />
 </div>
 
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/DJM88aCmEeaNG/giphy.gif">
@@ -34,8 +34,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Vaibhav Gupta</h1>
 <h3 align="center">A passionate learner from India...I'm passionate about making open-source more accessible things.Do 🌟 my repository if you find my project interesting, at least your star could make someone's day 😄. I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-2717&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-2717" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhav-2717&theme=onedark" alt="vaibhav-2717" /></a> </p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhav-2717&theme=onedark" alt="vaibhav-2717" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/349qKnoIBHK1i/giphy.gif">
 - 🔭 I’m currently working on **for finding best of my self**
 
