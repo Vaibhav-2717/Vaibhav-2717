@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  
 </div>
 <div float=left align=center>
-  <img src="Screenshot 2021-07-16 230614.png" width="80%" />
+  <img src="Screenshot.png" width="80%" />
 </div>
 
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/DJM88aCmEeaNG/giphy.gif">
