@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **vaibhav.2023mca1102@kiet.edu**
 
-- 🥱🥱 Fun fact **Make everyone laugh from my shitty thing🤣🤣🤣**
+- 🥱🥱 Fun fact **Make everyone laugh from my shitty thing🤣🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
